@@ -1,0 +1,4 @@
+com\miniuber\driver\controller\DriverControllerTest.class
+com\miniuber\driver\repository\DriverRepositoryTest.class
+com\miniuber\driver\DriverServiceApplicationTests.class
+com\miniuber\driver\service\DriverServiceTest.class

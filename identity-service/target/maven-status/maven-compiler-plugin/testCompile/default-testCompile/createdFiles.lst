@@ -1,0 +1,9 @@
+com\miniuber\TestConfiguration.class
+com\miniuber\auth\AuthServiceTest.class
+com\miniuber\driver\DriverEarningsControllerTest.class
+com\miniuber\driver\DriverServiceTest.class
+com\miniuber\auth\AuthControllerTest.class
+com\miniuber\driver\DriverEarningsServiceTest.class
+com\miniuber\user\UserServiceTest.class
+com\miniuber\driver\DriverControllerTest.class
+com\miniuber\user\UserControllerTest.class

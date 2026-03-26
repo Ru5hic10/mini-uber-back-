@@ -1,0 +1,4 @@
+com\miniuber\ride\repository\RideRepositoryTest.class
+com\miniuber\ride\RideServiceApplicationTests.class
+com\miniuber\ride\controller\RideControllerTest.class
+com\miniuber\ride\service\RideServiceTest.class

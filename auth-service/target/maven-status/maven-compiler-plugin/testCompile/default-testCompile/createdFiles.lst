@@ -1,0 +1,4 @@
+com\miniuber\auth\PasswordTest.class
+com\miniuber\auth\service\AuthServiceTest.class
+com\miniuber\auth\AuthServiceApplicationTests.class
+com\miniuber\auth\controller\AuthControllerTest.class

@@ -1,0 +1,15 @@
+2026-01-13 06:53:10.047 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.miniuber.location.websocket.LocationWebSocketHandler required a bean of type 'org.springframework.messaging.simp.SimpMessagingTemplate' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.messaging.simp.SimpMessagingTemplate' in your configuration.
+

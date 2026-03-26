@@ -1,0 +1,4 @@
+com\miniuber\user\UserServiceApplicationTests.class
+com\miniuber\user\repository\UserRepositoryTest.class
+com\miniuber\user\controller\UserControllerTest.class
+com\miniuber\user\service\UserServiceTest.class
