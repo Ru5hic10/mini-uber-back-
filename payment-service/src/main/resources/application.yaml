@@ -38,8 +38,8 @@ management:
 
 stripe:
   api:
-    key: ${STRIPE_API_KEY:}
-    public-key: ${STRIPE_PUBLIC_KEY:}
+    key: 
+    public-key: 
     version: 2023-10-16
   webhook:
-    secret: ${STRIPE_WEBHOOK_SECRET:}
+    secret: 
